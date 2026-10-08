@@ -2,7 +2,7 @@
 
 ### Community Manager | Public Relations | Media Management | Web3 | Writer | Web Development
 
-I’m a Community Manager and communications professional with **5 years of experience** in community management, public relations, media management, writing, and digital communications.
+I’m a Community Manager and communications professional with **4 years of experience** in community management, public relations, media management, writing, and digital communications.
 
 I’m passionate about building strong communities, creating meaningful engagement, managing online presence, and communicating ideas clearly and effectively. I also have experience within the Web3 space and am currently expanding my technical skills through web development.
 
@@ -10,7 +10,7 @@ I’m passionate about building strong communities, creating meaningful engageme
 
 ## 👩🏽‍💻 About Me
 
-- 💬 **5 years of professional experience**
+- 💬 **4 years of professional experience**
 - 🌐 Community Management & Web3 Communities
 - 🤝 Community Operations & Member Engagement
 - 🛡️ Moderation & Community Safety
@@ -71,7 +71,7 @@ I’m passionate about building strong communities, creating meaningful engageme
 
 ## 💼 Professional Experience
 
-With **5 years of experience**, I have worked across community management, communications, public relations, media, and digital communities.
+With **4 years of experience**, I have worked across community management, communications, public relations, media, and digital communities.
 
 My experience includes managing online communities, supporting members, developing community processes, moderating discussions, creating written content, managing digital communications, and helping communities maintain a safe and engaging environment.
 
